@@ -1,0 +1,13 @@
+#ignore all the text files
+*.txt
+#ignore the scss folder
+scss
+#ignore sass files
+*.scss
+#ignore .idea folders
+.idea
+#ignore 2do file
+TODO
+#ignore .map
+bootstrap.css.map
+*.css.map
